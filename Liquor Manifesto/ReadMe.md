@@ -4,18 +4,23 @@ Screen Cap No. I
 
 ![Imaage of ](https://github.com/SpaceMonkeyClan/My-Android-Apps/blob/main/Liquor%20Manifesto/DrinksFeature.png)
 
-Slug Love Screen Cap No. II
+Screen Cap No. II
 
-![Imaage of](https://github.com/SpaceMonkeyClan/HTML-Scripts/blob/master/Slug%20Love/SlugLoveSC-II.PNG)
+![Imaage of](https://github.com/SpaceMonkeyClan/My-Android-Apps/blob/main/Liquor%20Manifesto/Screenshot_20201107-125959_Liquor%20Manifesto.jpg)
 
-Slug Love Screen Cap No. III
+Screen Cap No. III
 
-![Imaage of](https://github.com/SpaceMonkeyClan/HTML-Scripts/blob/master/Slug%20Love/SlugLoveSC-III.PNG)
+![Imaage of](https://github.com/SpaceMonkeyClan/My-Android-Apps/blob/main/Liquor%20Manifesto/Screenshot_20201107-130025_Liquor%20Manifesto.jpg)
 
-Slug Love Screen Cap No. IV
+Screen Cap No. IV
 
-![Imaage of](https://github.com/SpaceMonkeyClan/HTML-Scripts/blob/master/Slug%20Love/SlugLoveSC-IV.PNG)
+![Imaage of](https://github.com/SpaceMonkeyClan/My-Android-Apps/blob/main/Liquor%20Manifesto/Screenshot_20201107-130119_Liquor%20Manifesto.jpg)
 
-Slug Love Screen Cap No. V
+Screen Cap No. V
 
-![Imaage of](https://github.com/SpaceMonkeyClan/HTML-Scripts/blob/master/Slug%20Love/SlugLoveSC-V.PNG)
+![Imaage of](https://github.com/SpaceMonkeyClan/My-Android-Apps/blob/main/Liquor%20Manifesto/Screenshot_20201107-130151_Liquor%20Manifesto.jpg)
+
+
+Screen Cap No. VI
+
+![Imaage of](https://github.com/SpaceMonkeyClan/My-Android-Apps/blob/main/Liquor%20Manifesto/Screenshot_20201107-130046_Liquor%20Manifesto.jpg)
