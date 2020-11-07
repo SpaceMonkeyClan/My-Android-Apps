@@ -1,4 +1,4 @@
-###### Liquor Manifesto App
+# Liquor Manifesto App
 
 Screen Cap No. I
 
