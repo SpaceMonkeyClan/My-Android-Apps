@@ -24,3 +24,5 @@ Screen Cap No. V
 Screen Cap No. VI
 
 ![Imaage of](https://github.com/SpaceMonkeyClan/My-Android-Apps/blob/main/Liquor%20Manifesto/Screenshot_20201107-130046_Liquor%20Manifesto.jpg)
+
+## Download Here: https://github.com/SpaceMonkeyClan/My-Android-Apps/blob/main/Liquor%20Manifesto/LiquorManifesto.apk
