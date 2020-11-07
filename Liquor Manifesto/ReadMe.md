@@ -1,8 +1,8 @@
-###### Slug Love
+###### Liquor Manifesto App
 
-Slug Love Screen Cap No. I
+Screen Cap No. I
 
-![Imaage of ](https://github.com/SpaceMonkeyClan/HTML-Scripts/blob/master/Slug%20Love/SlugLoveSC-I.PNG)
+![Imaage of ](https://github.com/SpaceMonkeyClan/My-Android-Apps/blob/main/Liquor%20Manifesto/DrinksFeature.png)
 
 Slug Love Screen Cap No. II
 
