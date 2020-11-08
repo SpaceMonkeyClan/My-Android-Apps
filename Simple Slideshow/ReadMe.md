@@ -33,4 +33,4 @@ Screen Cap No. VIII
 
 ![Imaage of](https://github.com/SpaceMonkeyClan/My-Android-Apps/blob/main/Simple%20Slideshow/Screenshot_20201107-172720_Simple%20Slideshow.jpg)
 
-## Download Here: https://github.com/SpaceMonkeyClan/My-Android-Apps/blob/main/Liquor%20Manifesto/LiquorManifesto.apk
+## Download Here: https://github.com/SpaceMonkeyClan/My-Android-Apps/blob/main/Simple%20Slideshow/app-release.apk
